@@ -1,3 +1,6 @@
+---
+permalink : index.html
+---
 This is how i prefer styling my code rn.
 
 I am working on updating my old code into this format too.
